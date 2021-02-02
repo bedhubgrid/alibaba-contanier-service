@@ -10,7 +10,7 @@ bin-release/
 # Executables
 *.swf
 *.air
-*.ipa
+*.ipa.truckpravalicering
 *.apk
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`

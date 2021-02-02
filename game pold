@@ -13,9 +13,9 @@ parameters:
   # zoneId is optional, default value is the kubernetes cluster's worker's zoneId
   #zoneId: cn-hangzhou-f
   # vpcId is required
-  vpcId: "vpc-xxxxxxxx"
+  vpcId: "vpc-6615716421"
   # vSwitchId is required
-  vSwitchId: "vsw-xxxxxxxx"
+  vSwitchId: "vsw-5162201791"
   # accessGroupName is optional, default value is 'DEFAULT_VPC_GROUP_NAME'
   #accessGroupName: "DEFAULT_VPC_GROUP_NAME"
   # deleteVolume is optional, should be 'true' or 'false', default value is 'false'
